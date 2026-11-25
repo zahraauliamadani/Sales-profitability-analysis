@@ -13,10 +13,6 @@ An interactive Microsoft Excel dashboard designed to analyze sales performance, 
 
 ---
 
-## Dashboard Preview
-
-![Sales Profitability Dashboard](dashboard.png)
-
 ## View Interactive Dashboard
 
 **[Open Interactive Excel Dashboard](https://1drv.ms/x/c/cbd0a3b974291310/IQDwkfjD8MPkTLRoKNwObov4Af6NKLLqYN1Y7p-LX-BU8oc?e=Uoc0Bc&nav=MTVfezU5NTQwQzgxLUQ0MkMtNDRGNy1BQzUzLTFEODNDQzNBOTdCMn0)**
